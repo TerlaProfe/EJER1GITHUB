@@ -1,6 +1,6 @@
-#hola, soy Sara :D
+# hola, soy Sara :D
 
-#hola soy rubencito
+# hola soy rubencito
 
 wenas, soy Dani! 
 
@@ -8,6 +8,6 @@ Hola, me llamo José.
 
 Jazmin Alvarenga
 
-
+Hola, soy Fetin uswu
 
 
